@@ -10,6 +10,7 @@
     <link rel="stylesheet" href="{{ asset('css/font.css') }}">
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@300;400;600;700&display=swap"
         rel="stylesheet" />
     @yield('styles') <!-- Tambahkan baris ini -->
